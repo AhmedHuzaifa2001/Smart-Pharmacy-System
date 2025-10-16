@@ -15,4 +15,5 @@ Created responsive UI using Tailwind CSS and integrated Select2 for enhanced sea
 Developed custom middleware for role-based access control and session management
 Implemented WeasyPrint for dynamic PDF invoice generation
 Built RESTful API endpoints for frontend-backend communication
-Technologies: Python, Django, SQLite, Stripe API, HTML/CSS, JavaScript, jQuery, Tailwind CSS, Bootstrap 5, WeasyPrint, Select2
+
+Technologies: Python, Django, SQLite, Stripe API, HTML/CSS, JavaScript, Tailwind CSS, Bootstrap 5, WeasyPrint
